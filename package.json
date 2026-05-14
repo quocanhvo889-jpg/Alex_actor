@@ -1,0 +1,7 @@
+{
+  "name": "alex-actor",
+  "version": "1.0.0",
+  "dependencies": {
+    "apify": "^3.0.0"
+  }
+}
